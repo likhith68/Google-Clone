@@ -1,10 +1,11 @@
+# Google-Clone using React JS and Firebase
+It is almost identical to the Google Search Engine and it performs search on the given input and returns the same results as the original google does
+
 ## Deployed this Project :)
 Check it out==>
 Link--https://clone-7695c.web.app/
 
-
-
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
